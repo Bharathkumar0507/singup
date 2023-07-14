@@ -1,0 +1,22 @@
+<!doctype html>
+<html lan="eng">
+<head>
+	<link rel="stylesheet" href="style.css">
+	
+	<title>login</title>
+	
+
+</head>
+
+<body>
+	<div class="form-card">
+	<h1>Sign In</h1>
+	<lable for="">Email</lable>
+	<input type="text"/>
+	<lable for="">Password</lable>
+	<input type="password"/>
+	<button type="sumbit">Login</button>
+	<p>Not registered yet? <a href="#">SignUp!</a></p>
+	</div>
+</body>
+</html>
